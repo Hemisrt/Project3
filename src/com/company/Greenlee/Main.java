@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class Main {
 
-    // Trenton Greenlee. 2/23/2020. Project 2. CSCI 1660 - Android Programming Fundamentals (Java).
+    // Trenton Greenlee. 3/26/2020. Project 3. CSCI 1660 - Android Programming Fundamentals (Java).
     public static void main(String[] args) {
         // Calling menu() to ask the user to select an option.
         int prompt = menu();
